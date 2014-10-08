@@ -35,6 +35,7 @@ setup(name='collective.popit',
           'plone.multilingualbehavior',
           'plone.app.versioningbehavior',
           'five.pt',
+          'PopIt-Python',
           # -*- Extra requirements: -*-
       ],
       extras_require={
